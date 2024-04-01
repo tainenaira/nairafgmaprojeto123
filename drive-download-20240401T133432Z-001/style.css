@@ -1,0 +1,17 @@
+.cabecalho{
+    background: color  #424242;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+.cabecalho-imagem{
+    width: 25%;
+
+}
+
+.cabecalho-lista-item{
+display: inline-block;
+}
+.conteudo {
+    
+}
